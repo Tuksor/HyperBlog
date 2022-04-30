@@ -2,4 +2,8 @@ Esta es la biografia de Guarr1or
 
 Daniel tiene 243 años y nacio en la Venezuela Colonial.
 
+<<<<<<< HEAD
 Hoy hablaremos de su oscura historia.
+=======
+Mañana nos enfocaremos en su vida laboral.
+>>>>>>> ramaPrueba2
